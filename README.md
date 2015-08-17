@@ -1,4 +1,3 @@
-personal4u
+Java + Spring + Mongo 
 ==========
-
-Repositório principal do aplicativo personal4u
+Source code about application with Java + Spring + MongoDB.
