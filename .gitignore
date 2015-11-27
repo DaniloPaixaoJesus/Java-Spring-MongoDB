@@ -1,0 +1,2 @@
+/service/target/classes/com/monzware/os/test/*.class
+/web/target/classes/com/monzware/os/test/OSTestService.class
